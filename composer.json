@@ -1,0 +1,8 @@
+{
+    "name": "huangjian/firsttest",
+    "description": "my code,just use in normal day",
+    "require": {
+        "php": ">=5.4",
+        "huangjian/firsttest": "0.01"
+    }
+}
