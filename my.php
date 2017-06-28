@@ -96,3 +96,8 @@ class my {
         return $result;
     }
 }
+
+function test()
+{
+  
+}
